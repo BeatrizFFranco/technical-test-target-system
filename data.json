@@ -1,0 +1,64 @@
+{
+    "daily_revenue": [
+        {
+            "day": 1,
+            "revenue": 0
+        },
+        {
+            "day": 2,
+            "revenue": 230
+        },
+        {
+            "day": 3,
+            "revenue": 540
+        },
+        {
+            "day": 4,
+            "revenue": 120
+        },
+        {
+            "day": 5,
+            "revenue": 0
+        },
+        {
+            "day": 6,
+            "revenue": 290
+        },
+        {
+            "day": 7,
+            "revenue": 670
+        },
+        {
+            "day": 8,
+            "revenue": 0
+        },
+        {
+            "day": 9,
+            "revenue": 0
+        },
+        {
+            "day": 10,
+            "revenue": 300
+        },
+        {
+            "day": 11,
+            "revenue": 560
+        },
+        {
+            "day": 12,
+            "revenue": 230
+        },
+        {
+            "day": 13,
+            "revenue": 0
+        },
+        {
+            "day": 14,
+            "revenue": 490
+        },
+        {
+            "day": 15,
+            "revenue": 800
+        }
+    ]
+}
