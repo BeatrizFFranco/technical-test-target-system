@@ -1,4 +1,4 @@
-# technical-test-target-system
+# technical-test-target-sistema
 Technical test for the internship vacancy at the company Target Sistema.
 
 # Technical test target sistema
