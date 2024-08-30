@@ -1,8 +1,8 @@
-# technical-test-target-sistema
-Technical test for the internship vacancy at the company Target Sistema.
+# technical-test-target-sistemas
+Technical test for the internship vacancy at the company target sistemas.
 
-# Technical test target sistema
-This project uses Python to solve problems for tasks requested by the company's target sistema.
+# Technical test target sistemas
+This project uses Python to solve problems for tasks requested by the company's target sistemas.
 
 
 ## Tasks
