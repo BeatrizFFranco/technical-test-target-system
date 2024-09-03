@@ -9,7 +9,7 @@ This project uses Python to solve problems for tasks requested by the company's 
 - Calculates the sum of numbers from 1 to a specified value using a loop.
 
 ## Task2 
-Checks if a number belongs to the Fibonacci sequence.
+- Checks if a number belongs to the Fibonacci sequence.
 
 ## Task3
 - Analyzes daily revenue data to find the minimum and maximum values and the days with revenue above the average.
